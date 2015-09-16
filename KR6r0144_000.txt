@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 十門辯惑論
+#+DATE: 2015-08-30 22:29:02.926160
+#+PROPERTY: JUAN 0
